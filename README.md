@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello and welcome!
 
 <!--
-**jondiezv/jondiezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+## Introduction
+My name is Jon Diez, I'm a full-stack web developer.
+- 🔭 I’m currently working on PicNova: (https://picnova.onrender.com/)! An Imgur clone mimicking full functionality, with the ability to post images (handled through AWS S3), leave comments, favorite images, like/dislike images.
+- 📫 How to reach me: jondiezv@gmail.com
+- ⚡ Fun fact: I'm a huge fan of videogames and got interested in programming after trying to mod (and making it crash) The Elder Scrolls IV: Oblivion with Oblivion Script Extender. I also worked on the videogame Indivisible (https://505games.com/games/indivisible/).
+- 🌱 I’m currently learning: T3 (https://create.t3.gg/)
+
+
+## Languages and Tools:
+<img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' /> <img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png' /> <img height='32' width='32' src='https://avatars.githubusercontent.com/u/9919?s=200&v=4' /> <img height='32' width='32' src='https://avatars.githubusercontent.com/u/3591786?s=200&v=4' /><img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' />
